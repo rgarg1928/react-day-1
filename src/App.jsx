@@ -4,7 +4,7 @@ function App() {
   const users = [
     { name: "DEEPAK", role: "Frontend Developer", image: "https://i.pravatar.cc/150?img=3" },
     { name: "RIYA", role: "UI/UX Designer", image: "https://i.pravatar.cc/150?img=5" },
-    { name: "SIMRAN", role: "React Developer", image: "https://i.pravatar.cc/150?img=10" }
+    { name: "PRIYA", role: "React Developer", image: "https://i.pravatar.cc/150?img=10" }
   ];
 
   return (
